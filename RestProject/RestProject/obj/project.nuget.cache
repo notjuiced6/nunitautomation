@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "muJ/cMSqG52isUq9ErRQA+V8QqVKS/tgbe7R93AT7verXLo1oO2GMiMl0/grnbPeLWj7R60aRoCu4JPl+gRVtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DenissPC\\source\\repos\\Rest_Sharp\\RestProject\\RestProject\\RestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DenissPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DenissPC\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\DenissPC\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\DenissPC\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
